@@ -37,6 +37,7 @@ command to run if program contains helper info
 ## Authors
 
 Jacob Horne
+```
 @clairepaoli
 
 
