@@ -1,5 +1,5 @@
 
-# Project Title
+# Cognitive Bias in Investment Decision-Making: ML Applications
 
 Simple overview of use/purpose.
 
@@ -36,10 +36,9 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
+Jacob Horne
+@clairepaoli
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
 
