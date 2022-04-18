@@ -1,0 +1,807 @@
+﻿Name,fund_ticker,Percent Pronounceable,deg_level,deg_subject,CFA,exp,ManagerName,category,size,TotalRetRankCat3Ymoendm,ms_rating,esg_rating,MorningstarAnalystRatingdaye,MorningstarCategoryPrimaryBenc,ret_3y,alpha_3y,beta_3y
+Fidelity® Contrafund®,FCNTX,22.70%,MA,Finance,No,32,William Danoff,Large Growth,1.35373E+11,28,4 Stars,Below Average,Silver,S&P 500 TR USD,12.691394,0.15,1.109
+T. Rowe Price Blue Chip Growth,TRBCX,21.67%,MA,Finance,Yes,27,Larry J. Puglia,Large Growth,58322899317,11,4 Stars,Low,Gold,S&P 500 TR USD,14.183781,0.965,1.171
+T. Rowe Price Growth Stock,PRGFX,23.68%,MA,Finance,No,18,Joseph B. Fath,Large Growth,56123816251,32,3 Stars,Low,Bronze,S&P 500 TR USD,12.361444,-0.228,1.125
+Fidelity® Growth Company,FDGRX,24.14%,MA,Finance,No,29,Steven S. Wymer,Large Growth,48279303226,4,5 Stars,Below Average,Silver,S&P 500 TR USD,15.779205,0.021,1.428
+Vanguard Dividend Growth Inv,VDIGX,17.39%,MA,Finance,No,22,Donald J. Kilbride,Large Blend,34340944470,54,3 Stars,Above Average,Gold,S&P 500 TR USD,10.02196,0.562,0.804
+T. Rowe Price Mid-Cap Growth,RPMGX,21.90%,MA,Finance,Yes,35,Brian W.H. Berghuis,Mid-Cap Growth,32765315567,29,4 Stars,Average,Gold,S&P 500 TR USD,11.162982,-0.952,1.075
+Fidelity® Blue Chip Growth,FBGRX,24.83%,MA,Finance,No,20,Sonu Kalra,Large Growth,28028188590,9,4 Stars,Below Average,Bronze,S&P 500 TR USD,14.360297,0.699,1.218
+T. Rowe Price New Horizons,PRNHX,20.08%,MA,Finance,No,22,Henry M. Ellenbogen,Mid-Cap Growth,27205448704,3,5 Stars,High,Silver,S&P 500 TR USD,17.099425,3.554,1.17
+T. Rowe Price Value,TRVLX,16.51%,BA,Non-Finance,Yes,20,Mark S. Finn,Large Value,25502071058,66,3 Stars,Low,Bronze,S&P 500 TR USD,8.058916,-2.133,0.895
+T. Rowe Price Equity Income,PRFDX,,MA,Finance,Yes,29,John D. Linehan,Large Value,21845251069,28,4 Stars,Below Average,Silver,S&P 500 TR USD,9.754481,-0.979,0.941
+T. Rowe Price Instl Large Cap Growth,TRLGX,23.08%,MA,Finance,Yes,14,Taymour R. Tamaddon,Large Growth,18499933886,3,5 Stars,Low,Bronze,S&P 500 TR USD,16.194555,2.842,1.161
+Fidelity® Magellan®,FMAGX,19.84%,MA,Finance,No,26,Jeffrey S. Feingold,Large Growth,18495263114,62,3 Stars,Average,Neutral,S&P 500 TR USD,10.685376,-2.188,1.156
+Strategic Advisers® Fidelity US TtlStk,FCTDX,19.85%,MA,Finance,Yes,16,Barry J. Golden,Large Blend,18370636407,,,,,S&P 500 TR USD,,,
+JPMorgan Large Cap Growth I,SEEGX,30.30%,MA,Finance,Yes,26,Giri K Devulapally,Large Growth,15581412616,9,4 Stars,Below Average,Bronze,S&P 500 TR USD,14.411387,0.649,1.234
+Janus Henderson Research D,JNRFX,28.89%,MA,Finance,Yes,24,Carmel Wellso,Large Growth,14770484226,73,2 Stars,Average,Neutral,S&P 500 TR USD,9.959076,-2.342,1.106
+Fidelity® Series Intrinsic Opps,FDMLX,14.83%,MA,Finance,Yes,38,Joel C. Tillinghast,Mid-Cap Value,14736393873,12,5 Stars,Above Average,,S&P 500 TR USD,10.106556,-0.158,0.89
+T. Rowe Price Mid-Cap Value,TRMCX,36.00%,MA,Finance,No,29,David J. Wallack,Mid-Cap Value,14017075372,14,4 Stars,Average,Gold,S&P 500 TR USD,9.745827,-0.67,0.916
+Fidelity® Series Large Cap Stock,FGLGX,22.70%,MA,Finance,No,23,Matthew W. Fruhan,Large Blend,13532281694,40,3 Stars,Above Average,,S&P 500 TR USD,10.662634,-0.965,1.027
+Fidelity® Series Growth Company,FCGSX,24.38%,MA,Finance,No,29,Steven S. Wymer,Large Growth,13041647630,3,5 Stars,Below Average,,S&P 500 TR USD,16.263294,0.444,1.428
+Columbia Contrarian Core Inst,SMGIX,18.18%,MA,Finance,Yes,25,Guy W. Pope,Large Blend,11567549690,65,3 Stars,Below Average,Bronze,S&P 500 TR USD,9.37267,-1.781,0.983
+T. Rowe Price Small-Cap Value,PRSVX,25.00%,MA,Finance,Yes,19,J. David Wagner,Small Blend,11187839453,12,4 Stars,Average,Bronze,S&P 500 TR USD,11.660118,-0.441,1.093
+JNL/T. Rowe Price Established Growth A,JNL/T. Rowe Price Established Growth A,24.66%,MA,Finance,No,18,Joseph B. Fath,Large Growth,10162616971,34,3 Stars,Low,,S&P 500 TR USD,12.218904,-0.391,1.128
+JPMorgan Growth Advantage A,VHIAX,29.07%,BA,Non-Finance,Yes,32,Timothy RV Parton,Large Growth,9566881519,14,4 Stars,Below Average,Bronze,S&P 500 TR USD,13.885746,-0.194,1.264
+T. Rowe Price Dividend Growth,PRDGX,20.56%,MA,Finance,Yes,25,Thomas J. Huber,Large Blend,9325542503,26,4 Stars,Above Average,Silver,S&P 500 TR USD,11.145244,1.402,0.82
+Loomis Sayles Growth Y,LSGRX,17.14%,MA,Finance,Yes,25,Aziz V. Hamzaogullari,Large Growth,8842881902,33,4 Stars,Above Average,Silver,S&P 500 TR USD,12.346604,-0.053,1.097
+Strategic Advisers® Small-Mid Cap,FSCFX,27.68%,MA,Finance,Yes,16,Barry J. Golden,Small Growth,8723968153,81,2 Stars,High,,S&P 500 TR USD,9.581446,-3.508,1.202
+T. Rowe Price QM US Small-Cap Gr Eq,PRDSX,32.79%,PHD,Finance,Yes,19,Sudhir Nanda,Small Growth,8060454753,56,3 Stars,Average,Gold,S&P 500 TR USD,11.225149,-2.21,1.222
+T. Rowe Price Instl Mid-Cap Equity Gr,PMEGX,21.90%,MA,Finance,Yes,35,Brian W.H. Berghuis,Mid-Cap Growth,7743721104,25,4 Stars,Average,Gold,S&P 500 TR USD,11.751584,-0.791,1.115
+Fidelity® Dividend Growth,FDGFX,25.48%,MA,Finance,Yes,13,Gordon Scott,Large Blend,7330023417,73,3 Stars,Below Average,Neutral,S&P 500 TR USD,9.047825,-0.534,0.824
+MFS® Massachusetts Inv Gr Stk A,MIGFX,29.23%,MA,Finance,Yes,20,Jeffrey C. Constantino,Large Growth,7285454976,37,4 Stars,High,Bronze,S&P 500 TR USD,12.141973,0.822,0.979
+TIAA-CREF Growth & Income Instl,TIGRX,15.26%,BA,Finance,No,28,Susan Kempler,Large Growth,7235284717,62,3 Stars,Average,Bronze,S&P 500 TR USD,10.695578,-1.681,1.101
+Fidelity® Series Value Discovery,FNKLX,20.00%,BA,Non-Finance,No,12,Sean Gavin,Large Value,7160278834,58,3 Stars,Below Average,,S&P 500 TR USD,8.472093,-1.308,0.852
+Fidelity® Growth & Income,FGRIX,22.58%,MA,Finance,No,23,Matthew W. Fruhan,Large Blend,6950712201,46,3 Stars,Above Average,Bronze,S&P 500 TR USD,10.40794,-1.225,1.03
+Fidelity® Series Opportunistic Insights,FVWSX,23.67%,MA,Finance,No,32,William Danoff,Large Growth,6864092627,38,3 Stars,Below Average,,S&P 500 TR USD,12.067482,-0.471,1.118
+Fidelity® Series Blue Chip Growth,FSBDX,26.01%,MA,Finance,No,20,Sonu Kalra,Large Growth,6374291770,7,5 Stars,Below Average,,S&P 500 TR USD,15.050303,1.392,1.209
+MFS® Research A,MFRFX,24.78%,MA,Finance,Yes,23,Joseph G. MacDougall,Large Blend,5896213605,36,4 Stars,Average,Bronze,S&P 500 TR USD,10.842712,-0.168,0.955
+Fidelity® Equity Dividend Income,FEQTX,23.47%,MA,Finance,No,20,John Sheehy,Large Value,5426549781,64,3 Stars,Below Average,Neutral,S&P 500 TR USD,8.177634,-1.844,0.878
+Oppenheimer Capital Appreciation A,OPTFX,31.25%,MA,Finance,No,21,Paul Larson,Large Growth,5317726592,90,1 Star,Below Average,Neutral,S&P 500 TR USD,7.989097,-4.242,1.119
+T. Rowe Price New America Growth,PRWAX,20.69%,MA,Finance,Yes,10,Justin P. White,Large Growth,5218204730,16,4 Stars,Below Average,Bronze,S&P 500 TR USD,13.720623,0.257,1.199
+Columbia Acorn Inst,ACRNX,31.65%,MA,Finance,Yes,21,Matthew A. Litfin,Mid-Cap Growth,5077817354,21,4 Stars,Below Average,Neutral,S&P 500 TR USD,12.042154,-2.558,1.344
+Fidelity® Contrafund® K6,FLCNX,25.00%,MA,Finance,No,32,William Danoff,Large Growth,5038562700,,,Below Average,,S&P 500 TR USD,,,
+Fidelity® Small Cap Growth,FCPGX,29.01%,BA,Finance,Yes,18,Patrick Venanzi,Small Growth,4999224158,14,4 Stars,Average,Bronze,S&P 500 TR USD,15.391406,1.259,1.267
+Fidelity®,FFIDX,26.32%,MA,Finance,Yes,17,Jean Park,Large Growth,4828030359,72,3 Stars,Above Average,,S&P 500 TR USD,10.048838,-1.405,1.011
+JNL/T. Rowe Price Value A,JNL/T. Rowe Price Value A,17.43%,BA,Non-Finance,Yes,20,Mark S. Finn,Large Value,4777958075,67,3 Stars,Low,,S&P 500 TR USD,7.932723,-2.238,0.893
+Baron Small Cap Retail,BSCFX,24.66%,BA,Non-Finance,No,34,Clifford Greenberg,Small Growth,4749066293,38,4 Stars,High,Silver,S&P 500 TR USD,12.845226,-1.053,1.258
+Fidelity® Small Cap Discovery,FSCRX,18.18%,MA,Non-Finance,No,15,Derek Janssen,Small Blend,4185446021,91,2 Stars,Above Average,Silver,S&P 500 TR USD,5.201067,-5.879,1.034
+Fidelity® Independence,FDFFX,23.58%,MA,Finance,No,26,Jeffrey S. Feingold,Large Growth,4090594665,90,1 Star,Average,Neutral,S&P 500 TR USD,8.051456,-5.986,1.311
+T. Rowe Price Instl Large Cap Core Gr,TPLGX,21.67%,MA,Finance,Yes,27,Larry J. Puglia,Large Growth,3986340982,10,4 Stars,Low,Gold,S&P 500 TR USD,14.277025,1.087,1.167
+Ivy Large Cap Growth A,WLGAX,16.67%,BA,Finance,Yes,18,Bradley M. Klapmeyer,Large Growth,3964909426,41,3 Stars,Above Average,Neutral,S&P 500 TR USD,11.952212,-0.543,1.113
+T. Rowe Price Spectrum Growth,PRSGX,0.00%,MA,Finance,Yes,19,Charles M. Shriver,Large Growth,3889533661,83,2 Stars,,,S&P 500 TR USD,9.021144,-2.029,0.979
+JNL/BlackRock Large Cap Select Growth A,JNL/BlackRock Large Cap Select Growth A,24.53%,MA,Finance,Yes,26,Lawrence G. Kemp,Large Growth,3885292169,23,4 Stars,Below Average,,S&P 500 TR USD,12.988068,-0.278,1.193
+Gabelli Small Cap Growth AAA,GABSX,27.18%,MA,Finance,Yes,41,Mario J. Gabelli,Small Blend,3822136030,73,3 Stars,Above Average,Neutral,S&P 500 TR USD,7.644862,-4.339,1.099
+Fidelity Advisor® Growth Opps M,FAGOX,24.35%,BA,Non-Finance,No,16,Kyle Weaver,Large Growth,3647603214,5,5 Stars,Below Average,Neutral,S&P 500 TR USD,15.747325,1.86,1.229
+Baron Asset Retail,BARAX,29.51%,MA,Finance,No,22,Andrew Peck,Mid-Cap Growth,3628448662,15,4 Stars,Above Average,Bronze,S&P 500 TR USD,12.965078,-0.363,1.189
+Northern Small Cap Value,NOSGX,25.35%,BA,Non-Finance,Yes,23,Robert H. Bergson,Small Value,3561617871,46,3 Stars,Below Average,,S&P 500 TR USD,8.206373,-3.631,1.105
+Fidelity® New Millennium,FMILX,22.54%,MA,Finance,Yes,26,John D. Roth,Large Blend,3481909847,47,3 Stars,Low,Bronze,S&P 500 TR USD,10.364223,-1.341,1.036
+Oppenheimer Equity Income A,OAEIX,26.76%,MA,Non-Finance,Yes,19,Laton Spahr,Large Value,3372610002,92,1 Star,Above Average,Neutral,S&P 500 TR USD,5.960529,-4.978,0.993
+Fidelity Advisor® Capital Development O,FDETX,24.87%,MA,Finance,No,23,Matthew W. Fruhan,Large Blend,3363372714,26,3 Stars,Average,Silver,S&P 500 TR USD,11.139496,-1.257,1.105
+Nuveen Santa Barbara Dividend Growth I,NSBRX,18.60%,MA,Finance,Yes,25,James R. Boothe,Large Blend,3333611107,58,3 Stars,Above Average,,S&P 500 TR USD,9.814415,-0.889,0.934
+BlackRock Capital Appreciation K,BFGBX,22.03%,MA,Finance,Yes,26,Lawrence G. Kemp,Large Growth,3292807371,25,4 Stars,Below Average,Bronze,S&P 500 TR USD,12.881939,-0.284,1.183
+JHancock Blue Chip Growth NAV,JHBCX,21.31%,MA,Finance,Yes,27,Larry J. Puglia,Large Growth,3193568824,12,4 Stars,Low,Silver,S&P 500 TR USD,14.053515,0.881,1.168
+Fidelity® Large Cap Stock,FLCSX,24.48%,MA,Finance,No,23,Matthew W. Fruhan,Large Blend,3037989584,27,3 Stars,Average,Silver,S&P 500 TR USD,11.120373,-1.363,1.115
+Virtus Ceredex Mid-Cap Value Equity I,SMVTX,31.58%,MA,Finance,Yes,22,Don Wordell,Mid-Cap Value,2982723262,22,4 Stars,Average,Neutral,S&P 500 TR USD,9.440967,-1.439,0.966
+Elfun Trusts,ELFNX,17.39%,BA,Finance,Yes,38,David B. Carlson,Large Growth,2918721850,60,3 Stars,Above Average,,S&P 500 TR USD,10.785335,-0.94,1.036
+Fidelity® Growth Strategies,FDEGX,29.70%,MA,Finance,Yes,17,Jean Park,Mid-Cap Growth,2881008639,82,2 Stars,Above Average,,S&P 500 TR USD,7.080513,-3.903,0.986
+Fidelity® Leveraged Company Stock,FLVCX,20.59%,MA,Finance,No,24,Mark Notkin,Mid-Cap Blend,2807922967,88,2 Stars,Average,Bronze,S&P 500 TR USD,4.21651,-9.589,1.317
+Janus Henderson Contrarian D,JACNX,28.00%,MA,Finance,Yes,11,Nick Schommer,Mid-Cap Blend,2738304606,80,2 Stars,High,Neutral,S&P 500 TR USD,5.443647,-6.434,1.11
+Fidelity® Mid Cap Value,FSMVX,30.00%,MA,Finance,No,14,Kevin Walenta,Mid-Cap Value,2709174015,92,2 Stars,Average,Neutral,S&P 500 TR USD,4.450094,-6.272,0.978
+Fidelity Advisor® Mid Cap II I,FIIMX,24.44%,MA,Finance,No,24,Thomas Allen,Mid-Cap Blend,2686140599,52,3 Stars,Average,Neutral,S&P 500 TR USD,7.92431,-4.855,1.175
+Fidelity® Value Discovery,FVDFX,19.61%,BA,Non-Finance,No,12,Sean Gavin,Large Value,2389829823,77,2 Stars,Below Average,Bronze,S&P 500 TR USD,7.459171,-2.126,0.84
+Laudus US Large Cap Growth,LGILX,23.21%,MA,Finance,Yes,26,Lawrence G. Kemp,Large Growth,2378568339,21,4 Stars,Below Average,Silver,S&P 500 TR USD,13.364403,0.125,1.185
+Fidelity® Focused Stock,FTQGX,39.47%,MA,Finance,No,30,Stephen DuFour,Large Growth,2366819452,8,5 Stars,High,,S&P 500 TR USD,14.586588,1.659,1.133
+Boston Partners All Cap Value Instl,BPAIX,28.36%,MA,Finance,Yes,23,Duilio R. Ramallo,Large Value,2365197887,52,3 Stars,Above Average,Silver,S&P 500 TR USD,8.754876,-3.387,1.098
+Fidelity Advisor® Diversified Stock O,FDESX,24.65%,BA,Finance,No,17,Daniel E. Kelley,Large Blend,2278546655,5,5 Stars,Below Average,Neutral,S&P 500 TR USD,12.090441,-1.315,1.2
+Goldman Sachs Growth Opportunities Instl,GGOIX,21.84%,BA,Non-Finance,No,30,Steven M. Barry,Mid-Cap Growth,2192740448,64,3 Stars,High,Neutral,S&P 500 TR USD,8.852385,-3.341,1.106
+Columbia Large Cap Value A,INDZX,24.64%,BA,Non-Finance,Yes,32,Hugh H. Mullin,Large Value,2181481310,67,3 Stars,Below Average,,S&P 500 TR USD,8.018218,-2.462,0.927
+MFS® Core Equity A,MRGAX,24.08%,MA,Finance,Yes,23,Joseph G. MacDougall,Large Blend,2173281824,7,5 Stars,Average,Neutral,S&P 500 TR USD,11.781559,0.427,0.982
+Eventide Gilead N,ETGLX,30.99%,PHD,Non-Finance,No,10,Finny Kuruvilla,Mid-Cap Growth,2134009845,20,4 Stars,Above Average,Neutral,S&P 500 TR USD,12.103832,-2.573,1.381
+Alger Small Cap Focus I,AOFIX,35.29%,MA,Finance,Yes,23,Amy Y. Zhang,Small Growth,2080502899,2,5 Stars,Above Average,Silver,S&P 500 TR USD,20.27853,4.707,1.402
+Thrivent Mid Cap Stock A,AASCX,27.59%,MA,Finance,Yes,24,Brian J. Flanagan,Mid-Cap Blend,2069004871,1,5 Stars,Average,,S&P 500 TR USD,13.868943,1.768,1.055
+Russell Inv US Small Cap Equity E,REBEX,26.65%,MA,Finance,Yes,14,Megan Roach,Small Blend,2067608115,27,4 Stars,Average,,S&P 500 TR USD,10.443723,-2.422,1.186
+VY® T. Rowe Price Growth Equity I,ITGIX,18.56%,MA,Finance,No,18,Joseph B. Fath,Large Growth,2016509796,33,3 Stars,Low,,S&P 500 TR USD,12.339954,-0.244,1.124
+T. Rowe Price Growth & Income,PRGIX,23.15%,MA,Finance,No,17,Jeffrey Rottinghaus,Large Blend,1987548004,55,3 Stars,Below Average,Bronze,S&P 500 TR USD,9.994717,0.221,0.836
+Neuberger Berman Multi-Cap Opp Inst,NMULX,17.50%,MA,Finance,No,27,Richard S. Nackenson,Large Blend,1987310325,6,5 Stars,Below Average,Bronze,S&P 500 TR USD,11.955994,0.396,1.005
+Oppenheimer Value A,CGRWX,29.49%,MA,Non-Finance,Yes,19,Laton Spahr,Large Value,1950955116,84,2 Stars,Above Average,,S&P 500 TR USD,6.980579,-4.405,1.03
+JHancock Strategic Growth NAV,JHancock Strategic Growth NAV,18.64%,MA,Finance,Yes,22,John A. Boselli,Large Growth,1902140132,40,3 Stars,Below Average,,S&P 500 TR USD,11.953077,-0.721,1.128
+Fidelity® Export and Multinational,FEXPX,25.45%,MA,Finance,Yes,13,Gordon Scott,Large Blend,1862240443,64,3 Stars,Low,,S&P 500 TR USD,9.516001,-0.18,0.833
+Fidelity Advisor® Leveraged Co StkI,FLVIX,26.09%,MA,Finance,No,26,Harley Lank,Mid-Cap Blend,1843593448,87,2 Stars,Below Average,Bronze,S&P 500 TR USD,4.46729,-9.013,1.279
+JPMorgan Large Cap Value I,HLQVX,31.52%,MA,Finance,Yes,24,Scott Blasdell,Large Value,1832252711,32,3 Stars,Below Average,,S&P 500 TR USD,9.601454,-2.545,1.108
+Fidelity® Blue Chip Growth K6,FBCGX,27.75%,MA,Finance,No,20,Sonu Kalra,Large Growth,1826498709,,,Below Average,,S&P 500 TR USD,,,
+Touchstone Large Cap Focused A,SENCX,10.45%,MA,Finance,No,25,James E. Wilhelm,Large Blend,1816015698,5,5 Stars,Above Average,,S&P 500 TR USD,12.219338,1.513,0.908
+Fidelity® Series Small Cap Discovery,FJACX,17.95%,MA,Non-Finance,No,15,Derek Janssen,Small Blend,1759898779,92,1 Star,Above Average,,S&P 500 TR USD,5.088199,-6.366,1.074
+MFS® New Discovery Value I,NDVIX,32.11%,BA,Finance,No,23,Kevin J. Schmitz,Small Value,1730414717,13,5 Stars,Above Average,,S&P 500 TR USD,11.364238,-0.792,1.096
+JHancock US Strategic Equity Allc NAV,JHancock US Strategic Equity Allc NAV,26.50%,MA,Finance,Yes,18,Nathan Thooft,Large Blend,1726171933,,,Below Average,,S&P 500 TR USD,,,
+Fidelity® Small Cap Stock,FSLCX,29.53%,MA,Finance,No,16,Kip Johann-Berkel,Small Blend,1722667065,80,2 Stars,High,Neutral,S&P 500 TR USD,6.831381,-4.839,1.074
+Virtus Ceredex Large-Cap Value Equity I,STVTX,20.00%,BA,Non-Finance,No,36,Mills Riddick,Large Value,1670759080,62,3 Stars,Low,Neutral,S&P 500 TR USD,8.248476,-3.14,1.02
+DWS Capital Growth S,SCGSX,24.64%,PHD,Finance,No,10,Sebastian P. Werner,Large Growth,1641895369,40,3 Stars,Average,,S&P 500 TR USD,12.00004,-0.632,1.12
+JHancock Equity Income NAV,JHancock Equity Income NAV,21.93%,MA,Finance,Yes,31,John D. Linehan,Large Value,1624226881,29,4 Stars,Below Average,,S&P 500 TR USD,9.574717,-1.206,0.948
+Great-West T. Rowe Price Mid Cp Gr Inv,MXMGX,20.98%,MA,Finance,Yes,35,Brian W.H. Berghuis,Mid-Cap Growth,1621127835,34,4 Stars,Average,,S&P 500 TR USD,10.864689,-1.222,1.075
+JPMorgan Tax Aware Equity I,JPDEX,30.00%,MA,Finance,Yes,21,Susan Bao,Large Blend,1605285295,35,3 Stars,Average,,S&P 500 TR USD,10.881501,-1.983,1.151
+Harbor Small Cap Value Instl,HASCX,20.97%,MA,Finance,No,33,Paul E. Viera,Small Blend,1576634767,19,4 Stars,Above Average,Silver,S&P 500 TR USD,10.871061,-2.596,1.239
+Delaware Smid Cap Growth A,DFCIX,23.08%,BA,Non-Finance,No,30,W. Alexander L. Ely,Small Growth,1560168976,13,4 Stars,Average,Neutral,S&P 500 TR USD,15.680503,1.211,1.344
+Hartford Stock HLS IA,HSTAX,17.39%,MA,Finance,No,22,Donald J. Kilbride,Large Blend,1506836295,50,3 Stars,Above Average,,S&P 500 TR USD,10.188396,0.664,0.81
+Neuberger Berman Mid Cap Growth Inv,NMANX,21.21%,MA,Finance,Yes,34,Kenneth J. Turek,Mid-Cap Growth,1487358691,60,3 Stars,Average,Neutral,S&P 500 TR USD,9.091841,-4.865,1.293
+Vulcan Value Partners,VVPLX,16.67%,MA,Finance,Yes,32,C.T. Fitzpatrick,Large Blend,1465115070,88,2 Stars,High,Bronze,S&P 500 TR USD,7.584009,-4.127,1.068
+Neuberger Berman Large Cap Value Inv,NPRTX,21.43%,MA,Finance,No,32,Eli M. Salzmann,Large Value,1462078350,5,5 Stars,Below Average,,S&P 500 TR USD,11.962512,2.029,0.857
+JHFunds2 Mid Value NAV,JMVNX,32.14%,MA,Finance,No,29,David J. Wallack,Mid-Cap Value,1439390625,20,4 Stars,Average,,S&P 500 TR USD,9.492506,-0.941,0.92
+Fidelity® Disciplined Equity,FDEQX,22.31%,MA,Finance,No,20,Alex Devereaux,Large Blend,1407402062,85,2 Stars,Average,,S&P 500 TR USD,7.89833,-3.338,1.003
+MFS® New Discovery I,MNDIX,29.60%,MA,Finance,Yes,19,Michael Grossman,Small Growth,1380229751,35,4 Stars,High,Neutral,S&P 500 TR USD,13.126516,-0.235,1.208
+Invesco American Value A,MSAVX,20.41%,MA,Finance,Yes,19,Jeffrey Vancavage,Mid-Cap Value,1375646811,92,1 Star,Above Average,Neutral,S&P 500 TR USD,4.545026,-8.786,1.267
+Brown Advisory Sm-Cp Fundamental Val Inv,BIAUX,17.74%,BA,Finance,No,25,J. David Schuster,Small Blend,1364579070,62,3 Stars,Below Average,,S&P 500 TR USD,8.323646,-2.603,0.997
+Fairholme,FAIRX,0.00%,BA,Non-Finance,No,37,Bruce R. Berkowitz,Large Value,1336930338,100,1 Star,Low,Negative,S&P 500 TR USD,-6.289059,-16.135,1.069
+Fidelity Advisor® Large Cap I,FALIX,24.08%,MA,Finance,No,23,Matthew W. Fruhan,Large Blend,1335676133,22,3 Stars,Average,Bronze,S&P 500 TR USD,11.264382,-1.251,1.117
+Touchstone Small Company A,SAGWX,25.71%,BA,Non-Finance,No,20,Jason V. Ronovech,Small Growth,1300452730,35,4 Stars,High,,S&P 500 TR USD,13.116687,0.794,1.09
+Touchstone Focused Y,TFFYX,18.60%,MA,Finance,No,25,James E. Wilhelm,Large Blend,1250321065,85,2 Stars,Below Average,Neutral,S&P 500 TR USD,7.869688,-3.153,0.981
+Ivy Value A,IYVAX,21.74%,MA,Finance,Yes,27,Matthew T. Norris,Large Value,1243724900,90,1 Star,Low,,S&P 500 TR USD,6.383978,-5.38,1.076
+Lyrical US Value Equity Institutional,LYRIX,26.47%,BA,Non-Finance,No,28,Andrew B. Wellington,Large Value,1229086649,96,1 Star,Low,,S&P 500 TR USD,5.185601,-7.896,1.235
+Gabelli Equity Income AAA,GABEX,28.16%,MA,Finance,Yes,41,Mario J. Gabelli,Large Blend,1211638009,96,1 Star,Above Average,Neutral,S&P 500 TR USD,5.545437,-4.816,0.93
+First Investors Opportunity A,FIUSX,25.20%,MA,Finance,No,23,Steven S. Hill,Mid-Cap Blend,1184206905,84,2 Stars,Average,,S&P 500 TR USD,4.987334,-6.842,1.092
+Thrivent Large Cap Value S,TLVIX,19.12%,MA,Finance,Yes,28,Kurt J. Lauber,Large Value,1132017306,15,4 Stars,Above Average,,S&P 500 TR USD,10.496404,-2.279,1.152
+Thrivent Large Cap Growth S,THLCX,19.15%,MA,Finance,No,25,Lauri Brunner,Large Growth,1097866626,57,3 Stars,Average,,S&P 500 TR USD,10.986814,-1.458,1.123
+DWS CROCI Equity Dividend A,KDHAX,9.52%,PHD,Non-Finance,Yes,22,Di Kumble,Large Value,1097774566,7,5 Stars,Average,,S&P 500 TR USD,11.593746,1.899,0.819
+Fidelity Advisor® Dividend Growth I,FDGIX,25.32%,MA,Finance,Yes,13,Gordon Scott,Large Blend,1062846721,74,3 Stars,Below Average,Neutral,S&P 500 TR USD,8.954313,-0.569,0.818
+GMO US Equity III,GMUEX,22.71%,PHD,Non-Finance,No,14,Neil Constable,Large Blend,1030493028,76,2 Stars,Above Average,,S&P 500 TR USD,8.8244,-2.515,1.01
+Vulcan Value Partners Small Cap,VVPSX,20.51%,MA,Finance,Yes,32,C.T. Fitzpatrick,Small Blend,1000114940,92,2 Stars,High,,S&P 500 TR USD,5.059595,-5.208,0.951
+Fidelity® Value Strategies,FSLSX,26.67%,MA,Finance,Yes,24,Matthew Friedman,Large Value,995181149.2,96,1 Star,Low,Neutral,S&P 500 TR USD,5.286228,-6.948,1.135
+Franklin Balance Sheet Investment A,FRBSX,26.76%,BA,Non-Finance,No,36,Grace Hoefig,Mid-Cap Value,986470666.7,29,4 Stars,Below Average,,S&P 500 TR USD,8.837757,-3.318,1.11
+TCW Select Equities I,TGCEX,17.65%,MA,Finance,Yes,24,Craig C. Blum,Large Growth,983413182.7,76,2 Stars,Average,,S&P 500 TR USD,9.795513,-2.933,1.172
+Eaton Vance Dividend Builder A,EVTMX,16.28%,MA,Finance,No,21,Charles B. Gaffney,Large Blend,981733221,75,2 Stars,Average,Neutral,S&P 500 TR USD,8.926274,-1.169,0.877
+VY® T. Rowe Price Equity Income S,IRPSX,22.32%,MA,Finance,Yes,29,John D. Linehan,Large Value,908768546,31,4 Stars,Average,,S&P 500 TR USD,9.62191,-1.188,0.95
+AMG Managers Brandywine I,BRWIX,29.41%,MA,Finance,No,30,Scott W. Gates,Mid-Cap Growth,892096988.6,33,3 Stars,Above Average,,S&P 500 TR USD,10.881538,-3.542,1.338
+Vanguard Capital Value Inv,VCVLX,25.84%,MA,Finance,Yes,24,David W. Palmer,Large Value,881457149,96,1 Star,Low,,S&P 500 TR USD,5.302854,-7.148,1.163
+Lord Abbett Growth Opportunities A,LMGAX,25.77%,MA,Finance,Yes,19,Jeffrey Rabinowitz,Mid-Cap Growth,857961574,80,2 Stars,Above Average,,S&P 500 TR USD,7.439056,-4.663,1.108
+VALIC Company I Blue Chip Growth,VCBCX,21.49%,MA,Finance,Yes,27,Larry J. Puglia,Large Growth,840980015.6,13,4 Stars,Low,,S&P 500 TR USD,14.030097,0.853,1.169
+Great-West T. Rowe Price Eq Inc Inv,MXEQX,22.73%,MA,Finance,Yes,29,John D. Linehan,Large Value,830446646,34,4 Stars,Below Average,,S&P 500 TR USD,9.526459,-1.307,0.953
+Domini Impact Equity Investor,DSEFX,21.68%,MA,Finance,No,20,Donald S. Tunnell,Large Blend,822642081.8,94,1 Star,High,,S&P 500 TR USD,6.262713,-5.642,1.087
+BlackRock Large Cap Focus Growth Instl,MALHX,11.36%,MA,Finance,Yes,26,Lawrence G. Kemp,Large Growth,815654120.1,7,5 Stars,Average,,S&P 500 TR USD,14.849761,1.109,1.212
+CGM Realty,CGMRX,40.91%,MA,Finance,Yes,36,G. Kenneth Heebner,Large Blend,798478964,97,1 Star,Average,,S&P 500 TR USD,5.19554,-3.976,0.88
+CGM Focus,CGMFX,20.51%,MA,Finance,Yes,36,G. Kenneth Heebner,Large Blend,792040528.6,96,1 Star,Below Average,,S&P 500 TR USD,5.275155,-8.282,1.36
+Ivy Small Cap Core A,IYSAX,24.19%,MA,Finance,No,18,Kenneth G. Gau,Small Blend,788730080.9,8,5 Stars,Above Average,Neutral,S&P 500 TR USD,12.366914,-0.709,1.184
+First Investors Special Situations A,FISSX,20.61%,MA,Finance,No,23,Steven S. Hill,Small Value,778339914.7,73,3 Stars,Above Average,,S&P 500 TR USD,6.876679,-5.346,1.136
+Poplar Forest Partners Institutional,IPFPX,18.60%,MA,Finance,Yes,27,J. Dale Harvey,Large Value,754963970.4,90,1 Star,Average,Bronze,S&P 500 TR USD,6.292148,-6.304,1.196
+Pax Small Cap Institutional,PXSIX,21.82%,BA,Finance,Yes,18,Nathan Moser,Small Blend,747578933.5,94,2 Stars,Above Average,,S&P 500 TR USD,4.657616,-5.121,0.891
+Virtus Ceredex Small-Cap Value Eq I,SCETX,27.06%,BA,Non-Finance,Yes,33,Brett Barner,Small Blend,742575758,48,3 Stars,Above Average,,S&P 500 TR USD,9.227797,-2.082,1.037
+Thornburg Core Growth A,THCGX,19.57%,MA,Finance,No,16,Greg M. Dunn,Large Growth,727376782,79,2 Stars,Low,Neutral,S&P 500 TR USD,9.371737,-3.38,1.181
+Columbia Small Cap Value I A,CSMIX,26.34%,BA,Non-Finance,Yes,18,Jeremy H. Javidi,Small Value,721067472.1,23,4 Stars,Low,,S&P 500 TR USD,9.816289,-3.555,1.274
+Russell Inv Tax-Mgd US Mid & Sm Cap S,RTSSX,27.29%,MA,Finance,Yes,14,Megan Roach,Small Growth,714735881.1,87,2 Stars,Above Average,,S&P 500 TR USD,8.803331,-3.701,1.147
+American Century Disciplined Growth I,ADCIX,25.56%,PHD,Non-Finance,No,13,Yulin Long,Large Growth,699527018.4,46,3 Stars,Average,,S&P 500 TR USD,11.66551,-0.93,1.119
+Fidelity Advisor® Series Growth Opps,FAOFX,24.48%,BA,Non-Finance,No,16,Kyle Weaver,Large Growth,689747926,2,5 Stars,Below Average,,S&P 500 TR USD,17.113882,3.229,1.211
+Ivy Tax-Managed Equity I,WYTMX,14.63%,BA,Finance,Yes,18,Bradley M. Klapmeyer,Large Growth,654875251.7,48,3 Stars,Above Average,,S&P 500 TR USD,11.559391,-0.851,1.108
+First Investors Equity Income A,FIUTX,21.05%,BA,Non-Finance,No,24,Sean Reidy,Large Value,639835615.9,76,2 Stars,Average,,S&P 500 TR USD,7.515298,-2.507,0.88
+Marsico Focus,MFOCX,20.00%,MA,Finance,No,38,Thomas F. Marsico,Large Growth,615775641.7,77,2 Stars,Average,,S&P 500 TR USD,9.71452,-2.236,1.093
+Fidelity® Small Cap Growth K6,FOCSX,28.48%,BA,Finance,Yes,18,Patrick Venanzi,Small Growth,613300144.7,,,Average,,S&P 500 TR USD,,,
+Fidelity Advisor® Growth & Income I,FGIOX,22.70%,MA,Finance,No,23,Matthew W. Fruhan,Large Blend,603364570.3,47,3 Stars,Above Average,Bronze,S&P 500 TR USD,10.329377,-1.288,1.029
+T. Rowe Price US Large-Cap Core,TRULX,17.74%,MA,Finance,No,17,Jeffrey Rottinghaus,Large Blend,585527733.2,57,3 Stars,Below Average,Bronze,S&P 500 TR USD,9.853674,0.064,0.839
+TCW Relative Value Dividend Apprec N,TGIGX,16.67%,MA,Finance,Yes,36,Diane E. Jaffee,Large Value,580809029.8,97,1 Star,Above Average,,S&P 500 TR USD,5.173902,-6.44,1.067
+JHancock Small Cap Core NAV,JHancock Small Cap Core NAV,25.97%,MA,Finance,Yes,32,Bill Talbot,Small Blend,571201563.3,33,4 Stars,Average,,S&P 500 TR USD,10.023723,-2.861,1.188
+American Century NT Disciplined Gr Inv,ANTDX,24.44%,PHD,Non-Finance,No,13,Yulin Long,Large Growth,570727959,50,3 Stars,Average,,S&P 500 TR USD,11.434156,-1.115,1.117
+Goldman Sachs Large Cap Value Instl,GSLIX,18.68%,MA,Finance,Yes,27,Charles (Brook) Dane,Large Value,567564090.6,95,1 Star,Below Average,,S&P 500 TR USD,5.42328,-5.156,0.958
+Janus Henderson VIT Research Instl,JAGRX,28.89%,MA,Finance,Yes,24,Carmel Wellso,Large Growth,557299771.5,63,3 Stars,Average,,S&P 500 TR USD,10.577306,-1.524,1.082
+Virtus KAR Capital Growth A,PSTAX,28.89%,MA,Finance,Yes,32,Douglas Foreman,Large Growth,554106680.4,75,2 Stars,Below Average,,S&P 500 TR USD,9.834598,-3.319,1.211
+Northern Small Cap Core,NSGRX,26.39%,BA,Non-Finance,Yes,23,Robert H. Bergson,Small Blend,519488412,43,3 Stars,Average,,S&P 500 TR USD,9.662689,-3.117,1.183
+Putnam Small Cap Growth A,PNSAX,27.91%,MA,Finance,Yes,22,William J. Monroe,Small Growth,518340677.1,57,3 Stars,Average,,S&P 500 TR USD,11.200351,-3.585,1.398
+JHancock Technical Opportunities NAV,JTCNX,29.41%,MA,Finance,Yes,20,David Lundgren,Large Growth,516334230.6,95,1 Star,Below Average,,S&P 500 TR USD,6.600366,-4.753,1.067
+Value Line Small Cap Opportunities Inv,VLEOX,34.25%,MA,Finance,No,27,Stephen E. Grant,Small Growth,516317756.5,70,3 Stars,Above Average,,S&P 500 TR USD,10.285117,-1.408,1.046
+Fidelity Advisor® Series Small Cap,FSSFX,20.21%,BA,Finance,Yes,9,Jennifer Fo,Small Blend,491903695.8,92,2 Stars,High,,S&P 500 TR USD,5.015778,-7.109,1.131
+Neuberger Berman AMT Mid-Cap Growth I,Neuberger Berman AMT Mid-Cap Growth I,21.21%,MA,Finance,Yes,34,Kenneth J. Turek,Mid-Cap Growth,484598763,62,3 Stars,Average,,S&P 500 TR USD,8.85558,-5.044,1.289
+VALIC Company I Large Capital Growth,VLCGX,29.69%,MA,Finance,Yes,20,Jeffrey C. Constantino,Large Growth,477904899.9,37,4 Stars,High,,S&P 500 TR USD,12.118781,0.797,0.979
+Baron Opportunity Retail,BIOPX,25.00%,BA,Non-Finance,No,17,Michael Lippert,Large Growth,470878208.9,4,5 Stars,Average,,S&P 500 TR USD,16.019814,1.655,1.296
+Fidelity® Event Driven Opportunities,FARNX,18.52%,MA,Finance,No,14,Arvind Navaratnam,Small Blend,460758330,47,3 Stars,High,,S&P 500 TR USD,9.292602,-2.128,1.045
+HCM Dividend Sector Plus R,HCMZX,25.00%,BA,Non-Finance,No,26,Vance Howard,Large Value,457175172.5,2,5 Stars,Above Average,,S&P 500 TR USD,13.87302,0.987,1.142
+AB Concentrated Growth Advisor,WPSGX,28.57%,MA,Finance,No,29,James T. Tierney,Large Growth,454539147.7,43,3 Stars,Average,Neutral,S&P 500 TR USD,11.839207,0.113,1.029
+Wasatch Small Cap Value,WMCVX,21.15%,MA,Finance,No,23,Jim Larkins,Small Blend,446289972.9,7,5 Stars,Average,,S&P 500 TR USD,12.579535,1.011,1.023
+Victory Diversified Stock A,SRVEX,21.95%,MA,Finance,Yes,32,Michael P. Gura,Large Blend,434398438.2,95,1 Star,Low,,S&P 500 TR USD,6.072452,-4.788,0.98
+13D Activist I,DDDIX,26.32%,BA,Finance,No,21,Ken Squire,Mid-Cap Growth,398501020.3,46,3 Stars,High,,S&P 500 TR USD,9.99357,-2.55,1.151
+Fidelity® Blue Chip Value,FBCVX,14.89%,BA,Non-Finance,No,12,Sean Gavin,Large Value,394423479.4,80,2 Stars,Below Average,,S&P 500 TR USD,7.327015,-2.624,0.884
+Touchstone Large Cap Institutional,TLCIX,22.58%,MA,Finance,Yes,33,Stephen M. Goddard,Large Blend,392295397.9,61,3 Stars,Low,,S&P 500 TR USD,9.675929,-1.685,1.005
+Royce Smaller-Companies Growth Svc,RYVPX,31.58%,MA,Finance,Yes,33,James (Chip) A. Skinner,Small Growth,384844388.4,83,2 Stars,Below Average,,S&P 500 TR USD,9.37724,-4.088,1.278
+T. Rowe Price Tax-Efficient Equity,PREFX,26.10%,MA,Finance,No,32,Donald J. Peters,Large Growth,381917308.9,47,3 Stars,Below Average,,S&P 500 TR USD,11.605844,-1.362,1.162
+Matthew 25,MXXVX,9.68%,BA,Non-Finance,No,27,Mark Mulholland,Large Blend,381680730.6,8,3 Stars,Low,,S&P 500 TR USD,11.678159,-1.305,1.2
+Dean Small Cap Value,DASCX,20.59%,BA,Non-Finance,Yes,18,Steven D. Roth,Small Value,371545053.5,68,3 Stars,Average,,S&P 500 TR USD,7.153916,-4.017,1.04
+Value Line Premier Growth,VALSX,33.72%,MA,Finance,No,27,Stephen E. Grant,Mid-Cap Growth,365900349.9,32,4 Stars,Above Average,,S&P 500 TR USD,10.963705,-0.408,0.996
+Putnam Small Cap Value A,PSLAX,22.27%,BA,Non-Finance,Yes,20,David Diamond,Small Value,348057761.2,58,3 Stars,Above Average,,S&P 500 TR USD,7.637278,-4.282,1.118
+FPA Capital,FPPTX,20.00%,MA,Finance,No,14,Arik A. Ahitov,Mid-Cap Value,338167217.5,98,1 Star,Below Average,Neutral,S&P 500 TR USD,0.975747,-8.984,0.946
+Columbia Acorn Select Inst,ACTWX,33.33%,MA,Finance,Yes,20,David L Frank,Mid-Cap Growth,322972332.2,40,3 Stars,Below Average,,S&P 500 TR USD,10.346138,-3.683,1.308
+Alger Large Cap Growth I-2,AAGOX,27.78%,BA,Non-Finance,Yes,21,Daniel C. Chung,Large Growth,321502022.7,41,3 Stars,Below Average,,S&P 500 TR USD,11.984251,-1.866,1.28
+Value Line Larger Companies Focused Inv,VALLX,22.73%,MA,Finance,No,20,Cindy J. Starke,Large Growth,312312776.6,22,3 Stars,Low,,S&P 500 TR USD,13.123713,-0.278,1.229
+Gerstein Fisher Multi-Factor Growth Eq,GFMGX,27.92%,BA,Finance,No,26,Gregg S. Fisher,Large Growth,312076698.2,60,3 Stars,Below Average,,S&P 500 TR USD,10.794547,-2.229,1.175
+VY® Columbia Contrarian Core I,ISFIX,18.18%,MA,Finance,Yes,25,Guy W. Pope,Large Blend,307784906.2,65,3 Stars,Below Average,,S&P 500 TR USD,9.482749,-1.728,0.988
+Hartford Quality Value A,HVOAX,25.00%,MA,Finance,No,23,Matthew G. Baker,Large Value,307172389.4,77,2 Stars,High,,S&P 500 TR USD,7.457327,-4.274,1.069
+Franklin MicroCap Value A,FRMCX,25.97%,MA,Non-Finance,No,31,Bruce C. Baughman,Small Value,306276730.9,49,3 Stars,Low,,S&P 500 TR USD,8.100199,-1.825,0.936
+Baron Fifth Avenue Growth Retail,BFTHX,17.65%,BA,Finance,No,25,Alex Umansky,Large Growth,304469282.5,10,4 Stars,Low,,S&P 500 TR USD,14.279618,0.621,1.234
+Marsico Growth,MGRIX,16.67%,MA,Finance,No,38,Thomas F. Marsico,Large Growth,302768214.9,78,2 Stars,Below Average,,S&P 500 TR USD,9.628339,-2.609,1.115
+City National Rochdale US Cor Eq Instl,CNRUX,24.56%,MA,Finance,No,30,Thomas A. Galvin,Large Growth,301390391.6,63,3 Stars,Above Average,,S&P 500 TR USD,10.600182,-0.184,0.935
+JHFunds 2 Small Company Value NAV,JHSVX,23.20%,MA,Finance,Yes,19,J. David Wagner,Small Blend,296617553.7,15,4 Stars,Average,,S&P 500 TR USD,11.210616,-0.948,1.11
+Tocqueville,TOCQX,25.42%,PHD,Finance,Yes,42,Robert W. Kleinschmidt,Large Blend,292037236.9,75,2 Stars,Below Average,,S&P 500 TR USD,8.855147,-2.331,0.993
+Wasatch Micro Cap Value,WAMVX,27.62%,MA,Finance,Yes,24,Brian A. Bythrow,Small Growth,285262403.1,38,4 Stars,Low,,S&P 500 TR USD,12.814387,1.615,0.98
+DWS Mid Cap Value Institutional,MIDIX,26.39%,BA,Non-Finance,Yes,28,Richard Hanlon,Mid-Cap Value,275142211.1,94,1 Star,Average,,S&P 500 TR USD,3.941716,-6.739,0.981
+RBC Small Cap Core I,RCSIX,30.26%,MA,Finance,No,38,Lance F. James,Small Growth,273746136.1,97,1 Star,Low,,S&P 500 TR USD,5.661096,-8.16,1.352
+Marsico 21st Century,MXXIX,20.37%,MA,Finance,No,16,Brandon A. Geisler,Mid-Cap Growth,270985487.2,22,4 Stars,Below Average,,S&P 500 TR USD,12.039347,-0.005,1.072
+Pin Oak Equity,POGSX,28.95%,MA,Finance,Yes,24,Mark W. Oelschlager,Large Blend,269481171,37,3 Stars,Low,,S&P 500 TR USD,10.794123,-0.711,1.021
+Fidelity® Value Discovery K6,FDVKX,23.00%,BA,Non-Finance,No,12,Sean Gavin,Large Value,268224375.2,,,Below Average,,S&P 500 TR USD,,,
+Calvert Mid-Cap A,CCAFX,20.21%,MA,Finance,No,22,Charles B. Gaffney,Mid-Cap Blend,267199356,88,2 Stars,Above Average,,S&P 500 TR USD,4.204549,-6.214,0.946
+DWS Large Cap Focus Growth S,SCQGX,23.40%,PHD,Finance,No,10,Sebastian P. Werner,Large Growth,265684966.8,46,3 Stars,Below Average,,S&P 500 TR USD,11.683338,-1.355,1.171
+Northern Large Cap Core,NOLCX,25.34%,MA,Finance,Yes,23,Mark C. Sodergren,Large Value,264428708,26,4 Stars,Above Average,,S&P 500 TR USD,9.916855,-1.592,1.015
+Oppenheimer Dividend Opportunity A,OSVAX,25.32%,MA,Non-Finance,Yes,19,Laton Spahr,Large Value,263661473.4,79,2 Stars,Average,,S&P 500 TR USD,7.333175,-1.907,0.802
+Fidelity Advisor® Equity Value I,FAIVX,18.63%,BA,Non-Finance,No,12,Sean Gavin,Large Value,263194452.1,78,2 Stars,Below Average,Neutral,S&P 500 TR USD,7.400151,-2.202,0.842
+Wasatch Ultra Growth,WAMCX,30.95%,BA,Non-Finance,Yes,22,John Malooly,Small Growth,262746095.6,2,5 Stars,Low,,S&P 500 TR USD,20.289973,5.134,1.344
+RiverPark/Wedgewood Institutional,RWGIX,15.79%,BA,Finance,Yes,33,David Alan Rolfe,Large Growth,262406104.8,93,1 Star,Below Average,Bronze,S&P 500 TR USD,7.332689,-4.376,1.063
+Auxier Focus Inv,AUXFX,24.77%,BA,Finance,No,36,J. Jeffrey Auxier,Large Value,249760047.3,63,3 Stars,Average,,S&P 500 TR USD,8.205353,-1.13,0.806
+Royce Small-Cap Value Service,RYVFX,32.10%,MA,Finance,Yes,30,Jay S. Kaplan,Small Value,249094626.1,76,2 Stars,Above Average,,S&P 500 TR USD,6.561335,-3.43,0.948
+Touchstone Large Company Growth Instl,DSMLX,10.71%,MA,Finance,No,39,Daniel B. Strickberger,Large Growth,244935987.6,73,2 Stars,Above Average,,S&P 500 TR USD,9.96548,-3.026,1.197
+City National Rochdale Div & Inc N,RIMHX,20.72%,MA,Finance,Yes,22,David J. Abella,Large Value,242445088.3,93,2 Stars,Below Average,,S&P 500 TR USD,5.867733,-0.155,0.495
+JHancock US Growth NAV,JHUMX,22.03%,MA,Finance,Yes,22,John A. Boselli,Large Growth,241546752.8,12,5 Stars,Above Average,,S&P 500 TR USD,14.105461,1.856,1.062
+Homestead Growth,HNASX,23.44%,MA,Finance,Yes,14,Taymour R. Tamaddon,Large Growth,223327986.9,4,5 Stars,Low,,S&P 500 TR USD,15.869202,2.518,1.165
+QS US Small Capitalization Equity I,LMSIX,29.49%,MA,Non-Finance,No,33,Stephen A. Lanzendorf,Small Blend,223295691.9,83,2 Stars,Average,,S&P 500 TR USD,6.529811,-6.795,1.271
+Walden Equity,WSEFX,25.33%,PHD,Finance,Yes,34,William H. Apfel,Large Blend,220450679.8,16,4 Stars,High,,S&P 500 TR USD,11.378349,0.342,0.952
+Ivy Micro Cap Growth I,IGWIX,17.86%,BA,Finance,No,21,John Bichelmeyer,Small Growth,213721821.7,29,3 Stars,Below Average,,S&P 500 TR USD,13.543704,1.328,1.153
+HCM Tactical Growth I,HCMIX,27.12%,BA,Non-Finance,No,26,Vance Howard,Large Blend,209780435.2,1,5 Stars,,,S&P 500 TR USD,14.564155,-2.878,1.621
+Nationwide Loomis All Cap Gr R6,NWZMX,14.63%,MA,Finance,Yes,25,Aziz V. Hamzaogullari,Large Growth,202710948.8,,,Above Average,,S&P 500 TR USD,,,
+USA Mutuals Vice Investor,VICEX,25.53%,MA,Finance,Yes,17,Jordan C. Waldrep,Large Blend,202179765.5,98,1 Star,Low,,S&P 500 TR USD,4.215915,-4.036,0.739
+Royce Small/Mid-Cap Premier Service,RGFAX,26.76%,MA,Finance,No,28,Steven G. McBoyle,Mid-Cap Blend,196872217.9,57,3 Stars,Below Average,,S&P 500 TR USD,7.584104,-4.431,1.106
+Virtus KAR Mid-Cap Growth A,PHSKX,31.37%,MA,Finance,Yes,32,Douglas Foreman,Mid-Cap Growth,195144838.1,3,5 Stars,Below Average,,S&P 500 TR USD,16.593561,3.508,1.136
+AMG Managers Brandywine Blue I,BLUEX,23.81%,MA,Finance,No,30,Scott W. Gates,Large Growth,193779106.2,48,3 Stars,Above Average,,S&P 500 TR USD,11.582827,-2.058,1.244
+JNL/The Boston Company Equity Income,JNL/The Boston Company Equity Income,26.03%,MA,Finance,Yes,26,John C. Bailer,Large Value,192456212,29,4 Stars,Below Average,,S&P 500 TR USD,9.587017,-2.061,1.042
+VALIC Company I Large Cap Core,VLCCX,18.18%,MA,Finance,Yes,25,Guy W. Pope,Large Blend,187605968.7,66,3 Stars,Below Average,,S&P 500 TR USD,9.357849,-1.775,0.981
+BlackRock Focus Growth Instl,MAFOX,18.37%,MA,Finance,Yes,26,Lawrence G. Kemp,Large Growth,187466716.7,23,4 Stars,Below Average,Neutral,S&P 500 TR USD,13.02335,0.157,1.153
+Nuveen Mid Cap Value A,FASEX,20.78%,MA,Finance,Yes,34,Karen L. Bowie,Mid-Cap Value,185403232.5,34,3 Stars,Average,,S&P 500 TR USD,8.427651,-4.571,1.197
+ClearBridge Select I,LBFIX,37.68%,BA,Non-Finance,No,17,Aram E. Green,Mid-Cap Growth,178962482.8,1,5 Stars,Average,,S&P 500 TR USD,19.776953,5.999,1.186
+Entrepreneur US Small Cap Institutional,IMPAX,32.93%,PHD,Finance,Yes,23,Joel M. Shulman,Small Growth,178705824.3,12,4 Stars,Below Average,,S&P 500 TR USD,16.300942,1.514,1.343
+Neuberger Berman AMT M/C Intrinsic Val I,Neuberger Berman AMT M/C Intrinsic Val I,22.03%,MA,Finance,No,36,Michael C. Greene,Mid-Cap Value,176391369,59,3 Stars,Average,,S&P 500 TR USD,6.985969,-4.641,1.065
+BlackRock Exchange BlackRock,STSEX,12.50%,MA,Finance,Yes,26,Lawrence G. Kemp,Large Blend,176114871.4,54,3 Stars,Average,,S&P 500 TR USD,10.020212,0.443,0.818
+Russell Inv US Mid Cap Equity S,RMCSX,24.82%,MA,Finance,Yes,14,Megan Roach,Mid-Cap Blend,173648688.6,55,3 Stars,Average,,S&P 500 TR USD,7.662341,-4.18,1.076
+MassMutual Select Fundamental Growth R5,MOTCX,26.19%,MA,Finance,Yes,34,Paul E. Marrkand,Large Growth,167566146.9,43,3 Stars,Above Average,,S&P 500 TR USD,11.875295,-0.076,1.05
+Value Line Mid Cap Focused,VLIFX,27.03%,MA,Finance,No,27,Stephen E. Grant,Mid-Cap Growth,166243291.6,13,5 Stars,Average,,S&P 500 TR USD,13.27303,2.28,0.936
+Friess Small Cap Growth Institutional,SCGFX,32.20%,MA,Finance,No,29,Scott W. Gates,Small Growth,165477076.8,,,Average,,S&P 500 TR USD,,,
+WV Concentrated Equities I,WVCIX,12.12%,MA,Finance,No,13,Kyle Mowery,Small Blend,157762428.6,,,Average,,S&P 500 TR USD,,,
+AMG Managers Brandywine Advisors MC Gr N,BWAFX,29.79%,MA,Finance,No,30,Scott W. Gates,Mid-Cap Growth,154505780.6,73,2 Stars,Average,,S&P 500 TR USD,8.135339,-5.854,1.318
+Cove Street Capital Small Cap Val Instl,CSCAX,22.86%,BA,Non-Finance,No,34,Jeffrey Bronchick,Small Blend,151485643.2,98,1 Star,Above Average,,S&P 500 TR USD,3.530657,-8.14,1.1
+Fidelity® Growth Strategies K6,FSKGX,29.70%,MA,Finance,Yes,17,Jean Park,Mid-Cap Growth,149318382.7,,,Above Average,,S&P 500 TR USD,,,
+The Cook & Bynum,COBYX,50.00%,BA,Non-Finance,No,20,Richard P. Cook,Large Blend,143890342.4,100,1 Star,,,S&P 500 TR USD,1.681286,-4.109,0.491
+Boston Trust Equity,BTEFX,25.37%,MA,Finance,Yes,49,Domenic Colasacco,Large Blend,142474228.5,24,4 Stars,High,,S&P 500 TR USD,11.180602,0.57,0.91
+RBC Microcap Value I,RMVIX,27.49%,MA,Finance,No,38,Lance F. James,Small Value,142398175.6,42,3 Stars,Below Average,Negative,S&P 500 TR USD,8.404442,-1.692,0.942
+Queens Road Small Cap Value,QRSVX,29.09%,MA,Finance,Yes,26,Steve Scruggs,Small Value,138270504.9,87,2 Stars,High,Neutral,S&P 500 TR USD,5.434076,-2.963,0.741
+Entrepreneur US Large Cap Institutional,IMPLX,24.07%,PHD,Finance,Yes,23,Joel M. Shulman,Large Growth,135678728,20,4 Stars,Below Average,,S&P 500 TR USD,13.439424,0.734,1.119
+AMG Renaissance Large Cap Growth Z,MRLIX,29.31%,MA,Finance,Yes,33,Michael E. Schroer,Large Growth,134225685.3,79,2 Stars,High,Neutral,S&P 500 TR USD,9.439152,-3.028,1.124
+Centre American Select Equity Inv,DHAMX,26.79%,MA,Finance,No,29,James A. Abate,Large Growth,131795621.7,77,2 Stars,Average,,S&P 500 TR USD,9.686835,0.217,0.812
+Nuveen Small Cap Growth Opp I,FIMPX,27.91%,BA,Finance,Yes,24,Jon A. Loth,Small Growth,130230962.5,52,3 Stars,Average,,S&P 500 TR USD,11.457889,-3.823,1.454
+Ancora/Thelen Small-Mid Cap I,AATIX,27.38%,MA,Finance,No,28,Daniel G. Thelen,Small Blend,129220257.5,27,4 Stars,High,,S&P 500 TR USD,10.455841,-1.368,1.054
+Pax Mid Cap Institutional,PMIDX,20.83%,BA,Finance,Yes,18,Nathan Moser,Mid-Cap Blend,128766136.3,,,Above Average,,S&P 500 TR USD,,,
+Intrepid Endurance Investor,ICMAX,25.00%,BA,Non-Finance,Yes,30,Mark F. Travis,Small Value,128364703,98,1 Star,,,S&P 500 TR USD,1.894295,-0.907,0.179
+Aegis Value,AVALX,24.56%,MA,Finance,No,25,Scott L. Barbee,Small Value,125685973.7,1,5 Stars,,,S&P 500 TR USD,20.141473,10.577,0.932
+Westfield Capital Dividend Growth Instl,WDIVX,32.50%,MA,Finance,No,33,William A. Muggia,Large Blend,124866570.9,51,3 Stars,Above Average,,S&P 500 TR USD,10.177416,-0.247,0.903
+AMG Managers LMCG Small Cap Growth N,ACWDX,42.19%,MA,Finance,Yes,19,Andrew Morey,Small Growth,122786466.2,98,1 Star,Average,,S&P 500 TR USD,5.31738,-9.945,1.514
+Iman K,IMANX,29.27%,PHD,Non-Finance,No,18,Bassam Osman,Large Growth,120808522.5,25,4 Stars,Average,,S&P 500 TR USD,12.925005,-1.2,1.273
+Osterweis Emerging Opportunity,OSTGX,40.00%,MA,Finance,Yes,31,James L. Callinan,Small Growth,119504691.5,,,Below Average,,S&P 500 TR USD,,,
+Neuberger Berman M/C Intrinsic Val Inv,NBRVX,21.67%,MA,Finance,No,36,Michael C. Greene,Mid-Cap Value,117496575,47,3 Stars,Average,,S&P 500 TR USD,7.591456,-4.305,1.092
+JNL/The London Company Focused US Eq,JNL/The London Company Focused US Eq,28.00%,MA,Finance,Yes,33,Stephen M. Goddard,Large Blend,116754409.1,37,3 Stars,Low,,S&P 500 TR USD,10.753966,-0.112,0.95
+Hartford Small Cap Core Y,HSMYX,27.69%,BA,Non-Finance,No,23,David J. Elliott,Small Blend,116506403.7,68,2 Stars,Average,,S&P 500 TR USD,7.929309,-4.767,1.194
+Cavalier Fundamental Growth Instl,CAFGX,26.85%,MA,Finance,No,38,Louis G. Navellier,Mid-Cap Growth,116129235.4,81,2 Stars,Average,,S&P 500 TR USD,7.334254,-5.794,1.254
+Janus Henderson Large Cap Value I,JAPIX,28.00%,BA,Non-Finance,No,21,Kevin Preloger,Large Value,115858770.8,73,3 Stars,Low,,S&P 500 TR USD,7.711422,-1.717,0.82
+Tarkio,TARKX,25.00%,BA,Finance,No,41,Russell T. Piazza,Mid-Cap Growth,115666735.7,7,5 Stars,Below Average,,S&P 500 TR USD,14.982174,-1.147,1.491
+Artisan Thematic Investor,ARTTX,12.20%,BA,Finance,No,15,Christopher Smith,Large Growth,107827349.2,,,Average,,S&P 500 TR USD,,,
+TCW Relative Value Mid Cap I,TGVOX,25.71%,MA,Finance,Yes,36,Diane E. Jaffee,Mid-Cap Value,105875191,37,3 Stars,Below Average,,S&P 500 TR USD,8.078835,-6.605,1.405
+Fidelity® Small Cap Stock K6,FKICX,30.30%,MA,Finance,No,16,Kip Johann-Berkel,Small Blend,104760540.8,,,Above Average,Neutral,S&P 500 TR USD,,,
+Tocqueville Opportunity,TOPPX,25.58%,MA,Finance,No,32,Thomas R. Vandeventer,Mid-Cap Growth,102090662.5,66,1 Star,Average,,S&P 500 TR USD,8.706344,-8.855,1.781
+Eaton Vance Stock A,EAERX,22.22%,MA,Finance,No,21,Charles B. Gaffney,Large Blend,101726324,73,2 Stars,Above Average,,S&P 500 TR USD,9.022476,-1.391,0.908
+Frost Value Equity Inst,FIDVX,22.22%,MA,Finance,Yes,19,Tom Bergeron,Large Value,100966246.7,94,1 Star,Average,,S&P 500 TR USD,5.651072,-5.892,1.056
+Hartford Small/Mid Cap Equity HLS IA,HMCSX,27.61%,BA,Non-Finance,No,23,David J. Elliott,Small Blend,99107777.77,57,3 Stars,Above Average,,S&P 500 TR USD,8.622982,-4.047,1.172
+Brown Advisory Equity Income Inv,BIADX,32.50%,BA,Non-Finance,No,20,Brian E. Graney,Large Blend,98975473.36,79,2 Stars,High,,S&P 500 TR USD,8.620366,-0.77,0.808
+Copley,COPLX,16.67%,BA,Finance,No,25,Peter Gottlieb,Large Value,98189765.13,2,5 Stars,Low,,S&P 500 TR USD,14.231338,6.538,0.623
+Nationwide Bailard Cogntv Val M,NWHFX,27.85%,BA,Finance,Yes,26,Thomas J. Mudge,Small Value,97774162.7,85,2 Stars,Above Average,,S&P 500 TR USD,5.473427,-4.931,0.98
+Bogle Investment Mgmt Sm Cp Gr Instl,BOGIX,22.22%,BA,Finance,No,67,John C. Bogle,Small Blend,96580355.76,25,3 Stars,Above Average,,S&P 500 TR USD,10.514327,-4.402,1.424
+RBC SMID Cap Growth I,TMCIX,32.05%,BA,Finance,Yes,34,Kenneth A. Tyszko,Mid-Cap Growth,95154353.66,27,4 Stars,Average,,S&P 500 TR USD,11.532483,-1.329,1.157
+Gabelli Focus Five A,GWSAX,31.58%,BA,Non-Finance,No,16,Daniel M. Miller,Mid-Cap Blend,94393671,99,1 Star,Average,,S&P 500 TR USD,-1.318038,-11.281,0.944
+Fidelity® Large Cap Stock K6,FCLKX,25.27%,MA,Finance,No,23,Matthew W. Fruhan,Large Blend,91667994,,,Average,,S&P 500 TR USD,,,
+RQSI Small Cap Hedged Equity Instl,RQSIX,24.24%,MA,Finance,No,10,Jaideep Karnawat,Small Blend,87729511.36,96,1 Star,Average,,S&P 500 TR USD,4.041874,-6.763,0.993
+Azzad Ethical,ADJEX,31.68%,MA,Finance,Yes,19,Christian J. Greiner,Mid-Cap Growth,87240570.34,78,2 Stars,Above Average,,S&P 500 TR USD,7.596368,-5.272,1.186
+Frontier Timpani Small Cap Growth Inst,FTSGX,36.84%,MA,Finance,Yes,22,Brandon M. Nelson,Small Growth,86632880.99,31,3 Stars,Average,,S&P 500 TR USD,13.445016,-1.194,1.383
+Royce Small-Cap Leaders Svc,RYOHX,37.97%,MA,Finance,Yes,25,Lauren A. Romeo,Small Blend,81532605.37,70,2 Stars,Above Average,,S&P 500 TR USD,7.855666,-4.713,1.186
+RMB A,RMBHX,10.34%,MA,Finance,Yes,21,Todd Griesbach,Large Growth,81367659.59,95,1 Star,Above Average,,S&P 500 TR USD,6.654795,-5.498,1.117
+Kirr Marbach Partners Value,KMVAX,24.39%,BA,Finance,Yes,39,Mark D. Foster,Mid-Cap Growth,80641107.28,98,1 Star,Below Average,,S&P 500 TR USD,3.636154,-9.185,1.214
+Reynolds Blue Chip Growth,RBCGX,31.83%,MA,Finance,No,25,Frederick L. Reynolds,Large Growth,79540617.73,92,1 Star,Low,,S&P 500 TR USD,7.774915,-4.77,1.165
+FDP BlackRock Capital Appreciation Instl,MADDX,22.03%,MA,Finance,Yes,26,Lawrence G. Kemp,Large Growth,79184215.95,66,2 Stars,Average,,S&P 500 TR USD,10.444513,-2.637,1.191
+Lateef Focused Growth I,LIMIX,15.38%,MA,Finance,No,20,Quoc Tran,Large Growth,77900264.35,94,1 Star,High,,S&P 500 TR USD,7.140319,-5.577,1.177
+FPA US Value,FPPFX,21.92%,BA,Finance,No,16,Gregory R. Nathan,Large Blend,77604423.52,100,1 Star,Below Average,,S&P 500 TR USD,1.459808,-10.753,1.143
+Glenmede Large Cap Value,GTMEX,25.81%,MA,Finance,Yes,21,Wade Wescott,Large Value,77350229.14,49,3 Stars,Average,,S&P 500 TR USD,8.857648,-2.555,1.024
+Victory Special Value A,SSVSX,21.95%,MA,Finance,Yes,32,Michael P. Gura,Large Blend,73896972.46,95,1 Star,Low,,S&P 500 TR USD,5.766914,-5.015,0.973
+Neuberger Berman AMT Large Cap Value I,Neuberger Berman AMT Large Cap Value I,23.08%,MA,Finance,No,32,Eli M. Salzmann,Large Value,73709806,5,4 Stars,Below Average,,S&P 500 TR USD,11.67687,1.797,0.854
+Fort Pitt Capital Total Return,FPCGX,27.27%,BA,Non-Finance,No,35,Charles A. Smith,Large Blend,72393097.62,7,5 Stars,Above Average,,S&P 500 TR USD,11.737572,0.745,0.95
+Buffalo Large Cap,BUFEX,25.53%,BA,Non-Finance,Yes,20,Alexander Hancock,Large Growth,71807021.9,51,3 Stars,Above Average,,S&P 500 TR USD,11.360475,-0.808,1.078
+Meridian Equity Income Legacy,MEIFX,9.30%,BA,Non-Finance,Yes,20,Minyoung Sohn,Large Growth,68664274,36,3 Stars,Low,,S&P 500 TR USD,12.207481,-2.614,1.392
+Private Capital Management Value I,VFPIX,20.59%,BA,Finance,No,30,Gregg J. Powers,Small Blend,68111734,68,3 Stars,High,,S&P 500 TR USD,7.983131,-3.918,1.111
+Alger Responsible Investing A,SPEGX,16.90%,BA,Finance,Yes,31,Gregory S. Adams,Large Growth,67504674.21,52,3 Stars,Above Average,,S&P 500 TR USD,11.273501,-1.072,1.101
+Marathon Value Portfolio,MVPFX,16.05%,MA,Finance,No,13,Todd Jones,Large Blend,67190201.64,80,2 Stars,Average,,S&P 500 TR USD,8.583592,-3.16,1.054
+BlackRock Impact US Equity Institutional,BIRIX,28.69%,MA,Finance,Yes,19,Travis Cooke,Large Blend,66531854.83,8,5 Stars,Average,,S&P 500 TR USD,11.665917,-0.397,1.057
+Ariel Focus Investor,ARFFX,21.88%,MA,Finance,No,35,Charles K. Bobrinskoy,Large Value,64543091,43,3 Stars,Low,,S&P 500 TR USD,9.147472,-4.117,1.227
+Government Street Equity,GVEQX,22.41%,MA,Finance,Yes,46,Thomas W. Leavell,Large Growth,64409326.09,86,2 Stars,Average,,S&P 500 TR USD,8.619377,-2.811,1.018
+Janus Henderson Select Value I,JVSIX,26.47%,MA,Finance,No,16,Alec Perkins,Mid-Cap Blend,61712742.51,14,5 Stars,Average,,S&P 500 TR USD,10.125125,0.238,0.852
+Catalyst Insider Buying A,INSAX,19.23%,MA,Finance,No,15,David Miller,Large Growth,59274555.21,87,2 Stars,Low,,S&P 500 TR USD,8.575093,-4.153,1.172
+Needham Aggressive Growth Retail,NEAGX,24.19%,MA,Finance,No,23,John O. Barr,Small Growth,59180284.29,93,1 Star,Above Average,,S&P 500 TR USD,7.423322,-2.537,0.923
+Matrix Advisors Value,MAVFX,19.44%,MA,Finance,Yes,32,David A. Katz,Large Value,58416909.71,76,2 Stars,Above Average,,S&P 500 TR USD,7.551392,-5.281,1.185
+RiverPark Large Growth Institutional,RPXIX,,BA,Non-Finance,Yes,24,Mitchell Rubin,Large Growth,57636294.6,47,3 Stars,Below Average,,S&P 500 TR USD,11.629862,-1.869,1.222
+Highland Small-Cap Equity Y,HSZYX,13.48%,BA,Finance,Yes,34,James D. Dondero,Small Blend,57048297.06,2,5 Stars,Below Average,,S&P 500 TR USD,13.940122,2.423,1.079
+Selective Opportunity Foundation,SLCTX,40.00%,MA,Non-Finance,Yes,9,Christopher J Devlin,Large Blend,56572326.74,,,,,S&P 500 TR USD,,,
+Dunham Small Cap Growth N,DNDGX,30.91%,MA,Finance,No,24,Alex Yakirevich,Small Growth,55731027.47,19,4 Stars,Above Average,,S&P 500 TR USD,14.657927,-0.095,1.36
+Aasgard Dividend Growth Sm & Md-Cp N/L,AADGX,26.92%,MA,Finance,Yes,17,James Walsh,Mid-Cap Blend,53342348.39,,,Average,,S&P 500 TR USD,,,
+ICON Fund C,ICNCX,31.25%,PHD,Finance,No,32,Craig T. Callahan,Mid-Cap Growth,51341383.84,86,2 Stars,High,,S&P 500 TR USD,6.338799,-7.676,1.334
+Government Street Mid-Cap,GVMCX,31.87%,MA,Finance,Yes,46,Thomas W. Leavell,Mid-Cap Blend,51078540.64,6,5 Stars,Average,,S&P 500 TR USD,10.81783,0.174,0.922
+NorthPointe Large Cap Value Instl,NPILX,28.57%,BA,Non-Finance,Yes,24,Peter James Cahill,Large Value,50438118,82,2 Stars,Below Average,,S&P 500 TR USD,7.139041,-3.166,0.916
+Pinnacle Value,PVFIX,26.09%,MA,Finance,Yes,28,John E. Deysher,Small Value,48613069.08,99,1 Star,,,S&P 500 TR USD,1.43907,-5.17,0.579
+Fidelity Advisor® Event Driven Opps I,FMRMX,19.23%,MA,Finance,No,14,Arvind Navaratnam,Small Blend,48274004.91,59,3 Stars,High,,S&P 500 TR USD,8.501505,-2.866,1.044
+Schneider Small Cap Value,SCMVX,19.51%,BA,Finance,Yes,35,Arnold C. Schneider,Small Value,47272273.88,2,4 Stars,High,,S&P 500 TR USD,15.25845,-1.501,1.782
+AC Alternatives® Discp Long Short I,ACDKX,25.79%,PHD,Non-Finance,No,14,Yulin Long,Long-Short Equity,47227941.89,,3 Stars,Average,,S&P 500 TR USD,4.747944,-4.142,0.783
+Queens Road Value,QRVLX,19.30%,MA,Finance,Yes,26,Steve Scruggs,Large Value,45474012.84,20,4 Stars,High,,S&P 500 TR USD,10.213031,0.688,0.809
+Oppenheimer Small Cap Value I,OVSIX,25.77%,MA,Finance,No,19,Eric Hewitt,Small Value,45427843.99,,,Average,,S&P 500 TR USD,,,
+Lisanti Small Cap Growth,ASCGX,30.34%,BA,Non-Finance,Yes,36,Mary Lisanti,Small Growth,44283499.74,21,4 Stars,Average,,S&P 500 TR USD,14.344212,-0.773,1.414
+Low Beta Tactical 500 Institutional,LBETX,0.00%,BA,Non-Finance,No,20,Thomas Moring,Large Blend,43478557.62,,,,,S&P 500 TR USD,,,
+Seven Canyons Strategic Income Investor,WASIX,17.74%,PHD,Finance,Yes,43,Samuel S. Stewart,Mid-Cap Value,41000098.28,74,3 Stars,Above Average,,S&P 500 TR USD,6.061901,-4.361,0.937
+Plumb Equity,PLBEX,24.24%,BA,Finance,Yes,34,Thomas G. Plumb,Large Growth,39106093.94,5,5 Stars,Below Average,,S&P 500 TR USD,15.485022,0.89,1.308
+Oberweis Small-Cap Value Institutional,OBVLX,27.17%,MA,Finance,Yes,11,David P. Wetherell,Small Value,38685378.4,54,3 Stars,High,,S&P 500 TR USD,7.851812,-4.146,1.13
+Dean Mid Cap Value,DALCX,27.59%,MA,Finance,Yes,26,Douglas Allen Leach,Mid-Cap Value,38048434.41,18,4 Stars,Above Average,,S&P 500 TR USD,9.517183,-1.004,0.924
+AMG Managers Essex Small/Micro Cap Gr N,MBRSX,30.61%,MA,Finance,Yes,34,Nancy B. Prial,Small Growth,36233651.9,50,3 Stars,Low,,S&P 500 TR USD,11.667055,-1.704,1.259
+Harbor Small Cap Value Opps Retire,HSRVX,30.00%,MA,Finance,No,19,Samir Sikka,Small Value,35672751.77,,,Average,,S&P 500 TR USD,,,
+IMS Capital Value,IMSCX,13.04%,BA,Finance,No,30,Carl W. Marker,Large Growth,34871107.87,100,1 Star,Low,,S&P 500 TR USD,3.631421,-9.528,1.237
+Patriot I,TRFTX,16.28%,MA,Finance,No,23,James H. Lee,Large Blend,33945164.89,81,2 Stars,Average,,S&P 500 TR USD,8.388484,-2.03,0.914
+Needham Small Cap Growth Retail,NESGX,21.15%,MA,Finance,No,24,Chris J. Retzler,Small Growth,33647912.6,13,5 Stars,Above Average,,S&P 500 TR USD,16.158723,6.498,0.809
+Fidelity® Flex Opportunistic Insights,FFPIX,26.62%,MA,Finance,No,32,William Danoff,Large Growth,33154697.27,,,Below Average,,S&P 500 TR USD,,,
+Stock Dividend,SDIVX,24.00%,MA,Finance,No,30,Steven Adams,Large Value,32809040.2,1,5 Stars,Above Average,,S&P 500 TR USD,18.043041,5.89,1.018
+Fidelity Advisor® Value Leaders I,FVLIX,14.89%,BA,Non-Finance,No,12,Sean Gavin,Large Value,31336340.89,84,2 Stars,Below Average,,S&P 500 TR USD,6.994822,-2.85,0.875
+Fidelity® Flex Intrinsic Opps,FFNPX,15.84%,MA,Finance,Yes,38,Joel C. Tillinghast,Mid-Cap Value,31161788.59,,,Above Average,,S&P 500 TR USD,,,
+UBS US Sustainable Equity P,BPEQX,15.38%,MA,Finance,Yes,32,Thomas J. Digenan,Large Blend,31000914.69,78,2 Stars,High,,S&P 500 TR USD,8.73566,-3.379,1.102
+Cortina Small Cap Value Institutional,CRSVX,23.19%,BA,Non-Finance,Yes,24,Alexander E. Yaggy,Small Blend,30913631.13,87,2 Stars,Average,,S&P 500 TR USD,5.913448,-6.567,1.188
+FBP Equity & Dividend Plus,FBPEX,17.14%,BA,Finance,Yes,41,John T. Bruce,Large Value,30438613.1,21,4 Stars,Above Average,,S&P 500 TR USD,10.150728,0.301,0.848
+Yorktown Small-Cap Institutional,YOVIX,28.26%,MA,Non-Finance,No,23,Michael J. Borgen,Small Blend,30271923.42,,,Above Average,,S&P 500 TR USD,,,
+ICON Long/Short C,IOLCX,33.33%,PHD,Finance,No,32,Craig T. Callahan,Mid-Cap Growth,29175883.86,81,2 Stars,Above Average,,S&P 500 TR USD,7.216786,-7.054,1.358
+Permanent Portfolio Aggressive Growth I,PAGRX,21.05%,BA,Finance,No,33,Michael J. Cuggino,Large Growth,29101863,94,1 Star,Average,,S&P 500 TR USD,7.084138,-6.97,1.335
+Ranger Small Cap Institutional,RFISX,30.61%,BA,Non-Finance,No,30,W. Conrad Doenges,Small Growth,28360515.53,60,3 Stars,Below Average,,S&P 500 TR USD,11.007209,-1.135,1.106
+Boyar Value,BOYAX,15.22%,BA,Non-Finance,No,43,Mark A. Boyar,Large Blend,27513080.73,94,1 Star,High,,S&P 500 TR USD,6.237978,-3.166,0.826
+AlphaMark Large Cap Growth,AMLCX,32.35%,MA,Finance,Yes,27,Michael L. Simon,Large Blend,27364240.32,45,3 Stars,Low,,S&P 500 TR USD,10.437347,-1.074,1.02
+Victory Institutional Diversified Stock,VIDSX,21.95%,MA,Finance,Yes,32,Michael P. Gura,Large Blend,26538948.71,95,1 Star,Low,,S&P 500 TR USD,5.99806,-4.769,0.972
+Ensemble Fund,ENSBX,36.36%,BA,Non-Finance,Yes,19,Sean Stannard-Stockton,Large Growth,25497982.87,,,Below Average,,S&P 500 TR USD,,,
+Small Cap Value,SCAPX,29.17%,MA,Finance,No,30,Steven Adams,Small Value,25124593.86,2,5 Stars,Above Average,,S&P 500 TR USD,16.328323,6.902,0.904
+Ancora MicroCap I,ANCIX,40.00%,MA,Finance,Yes,26,Michael E. Santelli,Small Value,25029269.55,56,3 Stars,Below Average,,S&P 500 TR USD,7.716139,-3.016,1.003
+Morgan Dempsey Small/Micro Cap Value,MITYX,38.46%,MA,Finance,No,32,Brian G. Rafn,Small Blend,24831711.77,12,5 Stars,Low,,S&P 500 TR USD,11.707825,2.028,0.86
+Pacific Advisors Small Cap Value A,PASMX,42.31%,MA,Non-Finance,No,43,George A. Henning,Small Blend,23228524.06,58,1 Star,Low,,S&P 500 TR USD,8.583821,-7.491,1.757
+Satuit Capital US Emerging Companies A,SATMX,31.82%,BA,Non-Finance,No,37,Robert J. Sullivan,Small Growth,22854708.81,100,1 Star,Low,,S&P 500 TR USD,3.801448,-9.148,1.259
+ICON Opportunities,ICONX,28.21%,PHD,Finance,No,32,Craig T. Callahan,Small Growth,22679922.29,92,1 Star,Low,,S&P 500 TR USD,7.708623,-7.754,1.519
+Piedmont Select Equity,PSVFX,23.08%,MA,Finance,Yes,40,David B. Gilbert,Large Growth,22674548.31,99,1 Star,Average,,S&P 500 TR USD,4.969316,-5.456,0.94
+Sparrow Growth A,SGFFX,32.63%,MA,Finance,No,25,Gerald R. Sparrow,Large Growth,22542254.39,19,3 Stars,Low,,S&P 500 TR USD,13.444288,-1.41,1.419
+T. Rowe Price QM US Value Equity I,TQVIX,28.76%,MA,Finance,Yes,10,Farris G Shuggi,Large Value,22027093.27,,,Average,,S&P 500 TR USD,,,
+Rock Oak Core Growth,RCKSX,31.43%,MA,Finance,Yes,21,Robert D. Stimpson,Large Blend,21834486.22,2,5 Stars,High,,S&P 500 TR USD,13.993195,-0.105,1.261
+Catalyst Small Cap Insider Buying A,CTVAX,31.03%,MA,Finance,No,15,David Miller,Small Growth,20254337.8,88,1 Star,Average,,S&P 500 TR USD,8.484627,-4.225,1.229
+Chartwell Small Cap Growth,CWSGX,26.21%,BA,Finance,Yes,29,Frank L. Sustersic,Small Growth,20217851,,,Average,,S&P 500 TR USD,,,
+Glenmede Equity Income,GEQIX,17.54%,MA,Finance,Yes,21,Wade Wescott,Large Value,19696195.89,,,High,,S&P 500 TR USD,,,
+AlphaCentric Small Cap Opps I,SMZIX,25.86%,MA,Finance,Yes,19,Mike Ashton,Small Blend,19222548.54,,,Low,,S&P 500 TR USD,,,
+Ancora Special Opportunity I,ANSIX,25.00%,BA,Non-Finance,No,54,Richard A. Barone,Small Value,17815879.29,31,4 Stars,,,S&P 500 TR USD,9.060034,-0.908,0.878
+HVIA Equity Institutional,HVEIX,28.57%,MA,Finance,No,30,Gustave J. Scacco,Large Growth,17638613.17,,,Above Average,,S&P 500 TR USD,,,
+Clifford Capital Partners Institutional,CLIFX,21.88%,MA,Finance,Yes,17,Ryan P. Batchelor,Mid-Cap Value,16854308.83,1,5 Stars,Average,,S&P 500 TR USD,13.972873,2.859,0.958
+Frank Value Inv,FRNKX,4.76%,BA,Finance,No,16,Brian J. Frank,Mid-Cap Blend,16537393.26,99,1 Star,,,S&P 500 TR USD,-0.633734,-4.536,0.291
+Fidelity® Flex Mid Cap Growth,FFMGX,29.70%,MA,Finance,Yes,17,Jean Park,Mid-Cap Growth,16211441.1,,,Above Average,,S&P 500 TR USD,,,
+Saratoga Large Capitalization Value I,SLCVX,23.33%,BA,Finance,No,46,Martin D. Sass,Large Blend,16078389.53,99,1 Star,Below Average,,S&P 500 TR USD,1.951122,-11.336,1.267
+Fidelity® Flex Large Cap Growth,FLCLX,26.68%,MA,Finance,No,20,Sonu Kalra,Large Growth,16026284.46,,,Below Average,,S&P 500 TR USD,,,
+River Oak Discovery,RIVSX,34.38%,MA,Finance,Yes,21,Robert D. Stimpson,Small Blend,14497702.57,81,2 Stars,Below Average,,S&P 500 TR USD,6.825063,-2.545,0.858
+Taylor Frigon Core Growth,TFCGX,26.83%,BA,Finance,No,33,Gerard Joseph Frigon,Mid-Cap Growth,13259685.45,,,Below Average,,S&P 500 TR USD,,,
+Oak Ridge Dividend Growth I,ORDNX,29.03%,BA,Finance,No,37,David M. Klaskin,Large Blend,13241663.76,36,4 Stars,Above Average,,S&P 500 TR USD,10.839751,0.02,0.935
+Neuberger Berman Value Instl,NLRLX,21.43%,MA,Finance,No,32,Eli M. Salzmann,Large Value,12781428,4,5 Stars,Below Average,,S&P 500 TR USD,12.173695,2.142,0.866
+Tanaka Growth,TGFRX,36.11%,MA,Finance,Yes,45,Graham Y. Tanaka,Mid-Cap Growth,12664407.67,100,1 Star,Low,,S&P 500 TR USD,-3.199621,-17.118,1.344
+Monteagle Informed Investor Growth I,MIIFX,40.91%,MA,Finance,No,59,Thomas H. Fitzgerald,Large Growth,12375242.54,92,1 Star,Average,,S&P 500 TR USD,7.657561,-1.197,0.783
+Camelot Excalibur Small Cap Income A,CEXAX,23.58%,BA,Finance,Yes,20,Darren Munn,Small Value,11762046.82,61,3 Stars,Above Average,,S&P 500 TR USD,7.570785,-2.199,0.891
+Delaware Small Cap Growth Institutional,DSGGX,23.68%,BA,Non-Finance,No,30,W. Alexander L. Ely,Small Growth,10835011.47,,,Below Average,,S&P 500 TR USD,,,
+Frost Mid Cap Equity Inst,FIKSX,33.85%,MA,Finance,Yes,26,Bob Bambace,Mid-Cap Blend,10829560.18,55,3 Stars,Average,,S&P 500 TR USD,7.682484,-3.532,1.019
+Segall Bryant & Hamill Micro Cap Retail,WTMIX,25.16%,MA,Finance,Yes,17,Paul A. Kuppinger,Small Blend,10321023.92,61,3 Stars,Below Average,,S&P 500 TR USD,8.426562,-1.646,0.935
+Neiman Opportunities A,NEOMX,37.93%,MA,Finance,No,26,Harvey Neiman,Mid-Cap Growth,9572497.4,,,Above Average,,S&P 500 TR USD,,,
+Nebraska Institutional,NEBIX,17.24%,BA,Finance,Yes,23,Scott Wetherington,Large Value,9334279.84,91,2 Stars,Low,,S&P 500 TR USD,6.210123,-1.002,0.612
+Mutual of America Instl Small Cap Growth,MASSX,26.47%,MA,Finance,No,33,Marguerite H. Wagner,Small Growth,9300000,89,2 Stars,Average,,S&P 500 TR USD,8.457515,-5.243,1.291
+Alger 35 P,ATVPX,17.14%,BA,Non-Finance,Yes,21,Daniel C. Chung,Large Growth,8723999.03,,,Below Average,,S&P 500 TR USD,,,
+Saratoga Small Capitalization I,SSCPX,27.62%,MA,Finance,No,23,Mitch E. Zacks,Small Blend,7622662.37,85,2 Stars,Below Average,,S&P 500 TR USD,6.317957,-7.098,1.281
+Pacific Advisors Large Cap Value A,PAGTX,31.03%,BA,Non-Finance,No,23,Samuel C. Coquillard,Large Blend,7407787.67,87,2 Stars,Above Average,,S&P 500 TR USD,7.643231,-3.378,0.985
+Goldman Sachs Focused Value R6,GFVUX,20.00%,MA,Finance,Yes,27,Charles (Brook) Dane,Large Value,6832828.43,85,2 Stars,Low,,S&P 500 TR USD,6.842245,-3.672,0.95
+Thrivent Small Cap Growth S,TSCGX,25.00%,BA,Finance,Yes,19,David J. Lettenberger,Small Growth,5986580,,,Average,,S&P 500 TR USD,,,
+Pacific Advisors Mid Cap Value A,PAMVX,39.29%,MA,Non-Finance,No,42,George A. Henning,Mid-Cap Blend,5609646.85,91,1 Star,Average,,S&P 500 TR USD,2.930283,-11.246,1.431
+Fidelity® Flex Mid Cap Value,FFMVX,25.90%,MA,Finance,Yes,24,Matthew Friedman,Mid-Cap Value,3600127.08,,,Below Average,,S&P 500 TR USD,,,
+Gator Focus Institutional,GFFIX,37.50%,MA,Finance,No,24,Derek Pilecki,Small Blend,3393137.13,91,1 Star,High,,S&P 500 TR USD,5.118953,-9.992,1.478
+TETON Westwood Mid-Cap Equity I,WMCRX,19.44%,MA,Finance,No,36,Nicholas F. Galluccio,Mid-Cap Growth,3234444,90,2 Stars,Average,,S&P 500 TR USD,5.674816,-7.133,1.199
+STAAR Smaller Company Stock,SITSX,13.33%,BA,Non-Finance,No,13,Brett Boshco,Small Blend,3072564.14,81,2 Stars,,,S&P 500 TR USD,6.72371,-4.961,1.088
+Nysa,NYSAX,17.65%,MA,Finance,No,38,Robert Cuculich,Small Growth,2988376.8,91,1 Star,Low,,S&P 500 TR USD,8.176802,-6.975,1.589
+Catalyst IPOx Allocation I,OIPIX,29.71%,MA,Finance,No,15,David Miller,Mid-Cap Growth,2709771.24,12,4 Stars,Above Average,,S&P 500 TR USD,13.340595,-0.51,1.265
+STAAR Larger Company Stock,SITLX,32.00%,BA,Non-Finance,No,12,Brett Boshco,Large Growth,2697474.96,95,1 Star,,,S&P 500 TR USD,6.529743,-3.91,0.93
+Cavanal Mid Cap Core Equity Instl,AIWVX,25.19%,MA,Finance,Yes,14,Thomas W. Verdel,Mid-Cap Blend,2343614.89,,,Average,,S&P 500 TR USD,,,
+State Street US Value Spotlight K,SIEKX,27.78%,BA,Finance,Yes,31,Brian Routledge,Large Value,1190512.29,,,Low,,S&P 500 TR USD,,,
+Bullfinch Greater Western New York,BWNYX,15.79%,MA,Finance,No,22,Christopher Carosa,Mid-Cap Blend,727636,92,1 Star,Average,,S&P 500 TR USD,2.259089,-7.206,0.865
+Baron Durable Advantage Institutional,BDAIX,23.68%,BA,Finance,No,25,Alex Umansky,Large Growth,,,,High,,S&P 500 TR USD,,,
+GQG Partners US Select Quality Eq Instl,GQEIX,31.87%,MA,Finance,No,29,Rajiv Jain,Large Growth,,,,,,S&P 500 TR USD,,,
+Spyglass Growth Institutional,SPYGX,19.23%,MA,Finance,No,14,James A. Robillard,Mid-Cap Growth,,,,Below Average,,S&P 500 TR USD,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
